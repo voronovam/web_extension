@@ -1,0 +1,10 @@
+{
+  "name": {
+    "message": "dark-mode",
+    "description": "extension name"
+  },
+  "description": {
+    "message": "Dark view pages",
+    "description": "extension description"
+  }
+}

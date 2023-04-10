@@ -1,0 +1,9 @@
+* {
+    color: chartreuse;
+}
+
+body.dark-mode {
+    background-color: #280144;
+    color: chartreuse;
+    font-family: monospace;
+}

@@ -1,0 +1,1 @@
+# Web extension for dark mode switcher
